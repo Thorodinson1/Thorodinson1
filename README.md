@@ -1,7 +1,7 @@
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" alt="MasterHead" width="1050" height="4">
 
 <h1 align="center">Hi 👋, I'm Thorodinson1</h1>
-<h3 align="center">CODING</h3>
+<h3 align="center">It’s not a bug; it’s an undocumented feature</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thorodinson1&label=Profile%20views&color=0e75b6&style=flat" alt="thorodinson1" /> </p>
